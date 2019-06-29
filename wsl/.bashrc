@@ -6,7 +6,7 @@ bind '"\e[B": history-search-forward'
 alias python=python3
 
 export PATH=$PATH:/home/foongminwong/bertini
-export PATH=$PATH:/home/foongminwong/blender2.8/blender
+export PATH=$PATH:/home/foongminwong/blender2.8
 export PYTHONPATH=$PYTHONPATH:~/bertini_real/python
 
 # ~/.bashrc: executed by bash(1) for non-login shells.
